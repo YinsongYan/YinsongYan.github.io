@@ -2,7 +2,7 @@
 
 <img class="hero-photo" src="https://github.com/YinsongYan.png?size=640" alt="Yinsong Yan"/>
 
-My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong.
+My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Department of Data Science and Artificial Intelligence (**DSAI**)](https://www.polyu.edu.hk/dsai/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong, under the supervision of [Prof. Jibin Wu](https://www.polyu.edu.hk/dsai/people/academic-staff/wujibin/?sc_lang=en) and [Prof. Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/).
 
 I received my bachelor's degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2020, and my master's degree in Applied Mathematics from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2023.
 
@@ -41,9 +41,12 @@ I am always open to research discussions and collaborations. Please feel free to
 # NEWS
 - [2026-01] Our paper on spatiotemporal representations in spiking neural networks was accepted by **ICLR 2026**.
 - [2025-09] Our paper on efficient and robust temporal processing with neural oscillations modulated spiking neural networks was published in **Nature Communications**.
-- [2023-09] I joined **The Hong Kong Polytechnic University** as a PhD student.
-- [2023-06] I received my master's degree in Applied Mathematics from **Xi'an Jiaotong University**.
-- [2020-06] I received my bachelor's degree in Applied Mathematics from **University of Electronic Science and Technology of China**.
+
+---
+
+# INTERNSHIPS
+
+- **2026-02-28–Present** — Research Intern, **Alibaba Tongyi Lab**. Working on online interaction in Qwen-Omni, with a focus on multimodal perception, generation, and real-time interaction. Mentored by **Dr. Jin Xu** and **Mr. Yuxuan Wang**.
 
 ---
 
@@ -75,7 +78,13 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u>Collaborative Works</u>
 
-More publications and projects will be added here.
+1. ***[PMSN: A Parallel Multi-Compartment Spiking Neuron for Multiscale Temporal Processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:IjCSPb-OGe4C)***
+   * X. Chen, Jibin Wu, C. Ma, **Yinsong Yan**, H. Liu, Y. Wu, Kay Chen Tan
+   * **IEEE Transactions on Neural Networks and Learning Systems**
+
+1. ***[Koopstd: Reliable similarity analysis between dynamical systems via approximating Koopman spectrum with timescale decoupling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:Y0pCki6q_DkC)***
+   * S. Zhang, Z. Ye, **Yinsong Yan**, Z. Song, Y. Wu, Jibin Wu
+   * **Forty-second International Conference on Machine Learning (ICML 2025)**
 
 ---
 
