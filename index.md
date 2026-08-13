@@ -48,8 +48,8 @@ I am always open to research discussions and collaborations. Please feel free to
 
 <div class="internship-entry">
   <div class="internship-logos" aria-label="Alibaba and Qwen">
-    <a href="https://companieslogo.com/alibaba/logo/" target="_blank" rel="noreferrer"><img src="images/alibaba-icon.svg" alt="Alibaba" title="Alibaba logo" /></a>
-    <a href="https://crystalpng.com/product/qwen-logo/" target="_blank" rel="noreferrer"><img src="images/qwen-icon.png" alt="Qwen" title="Qwen logo" /></a>
+    <img src="images/alibaba-icon.svg" alt="Alibaba" title="Alibaba logo" />
+    <img src="images/qwen-icon.png" alt="Qwen" title="Qwen logo" />
   </div>
   <div class="internship-details">
     <strong>2026-02-28–Present</strong> — Research Intern, <strong>Alibaba Tongyi Lab</strong>. Working on online interaction in Qwen-Omni, with a focus on multimodal perception and real-time interaction. Mentored by <strong><a href="https://jxu-thu.github.io/" target="_blank" rel="noreferrer">Dr. Jin Xu</a></strong> and <strong><a href="https://patrick-tssn.github.io/" target="_blank" rel="noreferrer">Mr. Yuxuan Wang</a></strong>.
