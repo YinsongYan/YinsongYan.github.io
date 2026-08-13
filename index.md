@@ -1,6 +1,6 @@
 <div class="hero" markdown="1">
 
-<img class="hero-photo" src="https://github.com/YinsongYan.png?size=640" alt="Yinsong Yan"/>
+<img class="hero-photo" src="images/photo.jpg" alt="Yinsong Yan"/>
 
 My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Department of Data Science and Artificial Intelligence (**DSAI**)](https://www.polyu.edu.hk/dsai/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong, under the supervision of [Prof. Jibin Wu](https://www.polyu.edu.hk/dsai/people/academic-staff/wujibin/?sc_lang=en) and [Prof. Kay Chen Tan](https://www.polyu.edu.hk/dsai/people/academic-staff/tankaychen/).
 
