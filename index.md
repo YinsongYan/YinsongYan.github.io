@@ -46,7 +46,15 @@ I am always open to research discussions and collaborations. Please feel free to
 
 # INTERNSHIPS
 
-- **2026-02-28–Present** — Research Intern, **Alibaba Tongyi Lab**. Working on online interaction in Qwen-Omni, with a focus on multimodal perception, generation, and real-time interaction. Mentored by **Dr. Jin Xu** and **Mr. Yuxuan Wang**.
+<div class="internship-entry">
+  <div class="internship-logos" aria-label="Alibaba and Qwen">
+    <a href="https://www.alibaba.com/" target="_blank" rel="noreferrer"><img src="images/alibaba-icon.svg" alt="Alibaba" /></a>
+    <a href="https://qwen.ai/" target="_blank" rel="noreferrer"><img src="images/qwen-icon.svg" alt="Qwen" /></a>
+  </div>
+  <div class="internship-details">
+    <strong>2026-02-28–Present</strong> — Research Intern, <strong>Alibaba Tongyi Lab</strong>. Working on online interaction in Qwen-Omni, with a focus on multimodal perception and real-time interaction. Mentored by <strong><a href="https://jxu-thu.github.io/" target="_blank" rel="noreferrer">Dr. Jin Xu</a></strong> and <strong><a href="https://patrick-tssn.github.io/" target="_blank" rel="noreferrer">Mr. Yuxuan Wang</a></strong>.
+  </div>
+</div>
 
 ---
 
