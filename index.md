@@ -1,0 +1,86 @@
+<div class="hero" markdown="1">
+
+<img class="hero-photo" src="https://github.com/YinsongYan.png?size=640" alt="Yinsong Yan"/>
+
+My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong.
+
+I received my bachelor's degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2020, and my master's degree in Applied Mathematics from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2023.
+
+My research focuses on developing brain-inspired, energy-efficient algorithms by bridging biological neural mechanisms with computational efficiency. My work explores spiking neural networks, neuromorphic computing paradigms, and brain-inspired machine intelligence.
+
+By drawing insights from the brain's energy-efficient information processing, I aim to enhance algorithmic performance for complex tasks while reducing computational overhead. My interdisciplinary approach combines mathematics, neuroscience, and computing.
+
+I am always open to research discussions and collaborations. Please feel free to reach out via email.
+
+<p class="emails">
+<strong>Email:</strong><br/>
+<span class="email" data-u="nay.gnosniy" data-d="kh.uylop.tcennoc" aria-label="Email address">
+  <em>yinsong.yan[AT]connect.polyu.hk</em>
+  <button type="button" class="email-copy" aria-label="Copy email" title="Click to copy">📋</button>
+</span>
+</p>
+
+</div>
+
+---
+
+# CURRENT RESEARCH
+
+1. Brain-Inspired Efficient AI
+   - Biological neural mechanisms for efficient information processing
+   - Robust and energy-efficient machine intelligence
+2. Spiking Neural Networks
+   - Temporal processing and spatiotemporal representation learning
+   - Learning dynamics and surrogate-gradient optimization
+3. Neuromorphic Computing
+   - Event-driven computation and sparse neural activity
+   - Energy-efficient algorithms for resource-constrained systems
+
+---
+
+# NEWS
+- [2026-01] Our paper on spatiotemporal representations in spiking neural networks was accepted by **ICLR 2026**.
+- [2025-09] Our paper on efficient and robust temporal processing with neural oscillations modulated spiking neural networks was published in **Nature Communications**.
+- [2023-09] I joined **The Hong Kong Polytechnic University** as a PhD student.
+- [2023-06] I received my master's degree in Applied Mathematics from **Xi'an Jiaotong University**.
+- [2020-06] I received my bachelor's degree in Applied Mathematics from **University of Electronic Science and Technology of China**.
+
+---
+
+# SELECTED PUBLICATIONS
+
+You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AO4B3jv5pOqNENGhVId6S5eDtXH9EqOhvmGqUdI_Qm9rMrscJzxkn4yoOLsdAvtRpH8sBGv-8b___5iEfdwtP6WH0eTS&user=Sj9BTwIAAAAJ).
+
+<p class="cors-note"><strong>&dagger;</strong> denotes the corresponding author(s).</p>
+
+## <u>First-Author / Project Leader</u>
+
+1. ***Efficient and robust temporal processing with neural oscillations modulated spiking neural networks***
+   * **Yinsong Yan**, Qu Yang, Yujie Wu, Hanwen Liu, Malu Zhang, Haizhou Li, Kay Chen Tan, Jibin Wu
+   * **Nature Communications 2025**
+   * We introduce Rhythm-SNN, a neural modulation framework inspired by brain oscillations for robust and energy-efficient temporal processing.
+   [Paper](https://doi.org/10.1038/s41467-025-63771-x), [Code](https://github.com/YinsongYan/Rhythm-SNN)
+
+1. ***Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation***
+   * **Yinsong Yan**, Yujie Wu, Jibin Wu
+   * **International Conference on Learning Representations (ICLR) 2026**
+   * We propose a parametric invertible transformation to expand spatiotemporal representations and improve learning dynamics in spiking neural networks.
+   [Paper](https://openreview.net/forum?id=3JwNXQzxll), [Code](https://github.com/YinsongYan/ICLR26)
+
+1. ***MD<sup>3</sup>Net: Integrating Model-Driven and Data-Driven Approaches for Pansharpening***
+   * **Yinsong Yan**, Junmin Liu, Shuang Xu, Yicheng Wang, Xiangyong Cao
+   * **IEEE Transactions on Geoscience and Remote Sensing 2022**
+   * We combine model-driven and data-driven approaches for the ill-posed multimodal image-fusion task of pansharpening.
+   [Paper](https://doi.org/10.1109/TGRS.2022.3196427), [Code](https://github.com/YinsongYan/M3DNet)
+
+## <u>Collaborative Works</u>
+
+More publications and projects will be added here.
+
+---
+
+# EDUCATION
+
+- **2023–Present** — PhD in Computing, The Hong Kong Polytechnic University, Hong Kong.
+- **2020–2023** — M.S. in Applied Mathematics, Xi'an Jiaotong University, Xi'an, China.
+- **2016–2020** — B.S. in Applied Mathematics, University of Electronic Science and Technology of China, Chengdu, China.
