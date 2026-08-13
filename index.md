@@ -26,13 +26,16 @@ I am always open to research discussions and collaborations. Please feel free to
 
 # CURRENT RESEARCH
 
-1. Brain-Inspired Efficient AI
+1. Multimodal Foundation Model
+   - Multimodal perception
+   - Online interaction
+2. Brain-Inspired Efficient AI
    - Biological neural mechanisms for efficient information processing
    - Robust and energy-efficient machine intelligence
-2. Spiking Neural Networks
+3. Spiking Neural Networks
    - Temporal processing and spatiotemporal representation learning
    - Learning dynamics and surrogate-gradient optimization
-3. Neuromorphic Computing
+4. Neuromorphic Computing
    - Event-driven computation and sparse neural activity
    - Energy-efficient algorithms for resource-constrained systems
 
@@ -98,7 +101,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 # EDUCATION
 
-- **2023–Present** — PhD in Computing, The Hong Kong Polytechnic University, Hong Kong.
+- **2023–Present** — PhD in Data Science and Artificial Intelligence, The Hong Kong Polytechnic University, Hong Kong.
 - **2020–2023** — M.S. in Applied Mathematics, Xi'an Jiaotong University, Xi'an, China.
 - **2016–2020** — B.S. in Applied Mathematics, University of Electronic Science and Technology of China, Chengdu, China.
 
