@@ -6,7 +6,7 @@ My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Dep
 
 I received my bachelor's degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2020, and my master's degree in Applied Mathematics from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2023.
 
-My research focuses on developing brain-inspired, energy-efficient algorithms by bridging biological neural mechanisms with computational efficiency. My work explores spiking neural networks, neuromorphic computing paradigms, and brain-inspired machine intelligence.
+My research focuses on multimodal foundation models and brain-inspired, energy-efficient algorithms. I work on multimodal perception and online interaction, while also exploring neuromorphic computing paradigms and brain-inspired machine intelligence.
 
 By drawing insights from the brain's energy-efficient information processing, I aim to enhance algorithmic performance for complex tasks while reducing computational overhead. My interdisciplinary approach combines mathematics, neuroscience, and computing.
 
@@ -32,10 +32,7 @@ I am always open to research discussions and collaborations. Please feel free to
 2. Brain-Inspired Efficient AI
    - Biological neural mechanisms for efficient information processing
    - Robust and energy-efficient machine intelligence
-3. Spiking Neural Networks
-   - Temporal processing and spatiotemporal representation learning
-   - Learning dynamics and surrogate-gradient optimization
-4. Neuromorphic Computing
+3. Neuromorphic Computing
    - Event-driven computation and sparse neural activity
    - Energy-efficient algorithms for resource-constrained systems
 
