@@ -6,7 +6,7 @@ My name is **Yinsong Yan** (闫银松). I am currently a PhD student in the [Dep
 
 I received my bachelor's degree in Applied Mathematics from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2020, and my master's degree in Applied Mathematics from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2023.
 
-My research focuses on multimodal foundation models and brain-inspired, energy-efficient algorithms. I work on multimodal perception and online interaction, while also exploring neuromorphic computing paradigms and brain-inspired machine intelligence.
+My research focuses on multimodal foundation models, omni agents, and neuromorphic computing. I work on multimodal perception and online interaction, while also exploring brain-inspired, energy-efficient algorithms.
 
 By drawing insights from the brain's energy-efficient information processing, I aim to enhance algorithmic performance for complex tasks while reducing computational overhead. My interdisciplinary approach combines mathematics, neuroscience, and computing.
 
@@ -24,14 +24,14 @@ I am always open to research discussions and collaborations. Please feel free to
 
 ---
 
-# CURRENT RESEARCH
+# RESEARCH INTEREST
 
 1. Multimodal Foundation Model
    - Multimodal perception
    - Online interaction
-2. Brain-Inspired Efficient AI
-   - Biological neural mechanisms for efficient information processing
-   - Robust and energy-efficient machine intelligence
+2. Omni Agent
+   - Multimodal reasoning and tool use
+   - Real-time, long-horizon agentic interaction
 3. Neuromorphic Computing
    - Event-driven computation and sparse neural activity
    - Energy-efficient algorithms for resource-constrained systems
@@ -39,6 +39,8 @@ I am always open to research discussions and collaborations. Please feel free to
 ---
 
 # NEWS
+- [2026-09-22] The [Qwen3.8-Omni technical report](https://arxiv.org/abs/2609.25611) was released.
+- [2026-09-18] [Qwen3.8-Omni-Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) was officially released.
 - [2026-01] Our paper on spatiotemporal representations in spiking neural networks was accepted by **ICLR 2026**.
 - [2025-09] Our paper on efficient and robust temporal processing with neural oscillations modulated spiking neural networks was published in **Nature Communications**.
 
@@ -63,6 +65,14 @@ I am always open to research discussions and collaborations. Please feel free to
 You can find the full list on my [**Google Scholar**](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AO4B3jv5pOqNENGhVId6S5eDtXH9EqOhvmGqUdI_Qm9rMrscJzxkn4yoOLsdAvtRpH8sBGv-8b___5iEfdwtP6WH0eTS&user=Sj9BTwIAAAAJ).
 
 <p class="cors-note"><strong>&dagger;</strong> denotes the corresponding author(s).</p>
+
+## <u>Technical Reports</u>
+
+1. ***Qwen3.8-Omni: Towards Native Omni-Modal Agents***
+   * **Qwen Team**
+   * **Technical Report, 2026**
+   * A native omni-modal model for multimodal understanding, real-time interaction, and long-horizon agentic tasks.
+   [Paper](https://arxiv.org/abs/2609.25611), [PDF](https://arxiv.org/pdf/2609.25611)
 
 ## <u>First-Author / Project Leader</u>
 
