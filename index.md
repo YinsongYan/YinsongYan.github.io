@@ -88,7 +88,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
    * We propose a parametric invertible transformation to expand spatiotemporal representations and improve learning dynamics in spiking neural networks.
    [Paper](https://openreview.net/forum?id=3JwNXQzxll), [Code](https://github.com/YinsongYan/ICLR26)
 
-1. ***MD<sup>3</sup>Net: Integrating Model-Driven and Data-Driven Approaches for Pansharpening***
+1. <img class="pub-thumb" src="images/publications/md3net.png" alt="Main architecture figure from MD3Net: model-driven and data-driven pansharpening" loading="lazy" decoding="async" /> ***MD<sup>3</sup>Net: Integrating Model-Driven and Data-Driven Approaches for Pansharpening***
    * **Yinsong Yan**, Junmin Liu, Shuang Xu, Yicheng Wang, Xiangyong Cao
    * **IEEE Transactions on Geoscience and Remote Sensing 2022**
    * We combine model-driven and data-driven approaches for the ill-posed multimodal image-fusion task of pansharpening.
