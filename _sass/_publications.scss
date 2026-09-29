@@ -130,6 +130,7 @@
       font-weight: 600;
       display: block;
       margin: 0 0 0.15rem;
+      padding-right: 2.25rem; // leave room for the number badge
     }
     > em > strong,
     > strong > em {
@@ -196,6 +197,28 @@
         color: var(--color-accent-hover);
         text-decoration: none;
         transform: translateY(-1px);
+      }
+    }
+
+    // Linked paper titles should read as titles, not as resource pills.
+    > strong > em > a,
+    > em > strong > a {
+      display: inline;
+      margin: 0;
+      padding: 0;
+      font-size: inherit;
+      font-weight: inherit;
+      line-height: inherit;
+      color: inherit;
+      background: none;
+      border: 0;
+      border-radius: 0;
+
+      &:hover {
+        color: var(--color-accent);
+        background: none;
+        border: 0;
+        transform: none;
       }
     }
   }
