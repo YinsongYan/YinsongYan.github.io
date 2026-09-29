@@ -100,7 +100,7 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
    * X. Chen, Jibin Wu, C. Ma, **Yinsong Yan**, H. Liu, Y. Wu, Kay Chen Tan
    * **IEEE Transactions on Neural Networks and Learning Systems, 2026**
 
-1. <img class="pub-thumb" src="images/publications/koopstd.png" alt="Figure 1 from KoopSTD: separation of dynamical systems" loading="lazy" decoding="async" /> ***[Koopstd: Reliable similarity analysis between dynamical systems via approximating Koopman spectrum with timescale decoupling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:Y0pCki6q_DkC)***
+1. <img class="pub-thumb" src="images/publications/koopstd.png?v=20260929" alt="KoopSTD overview: state-space observations, time-frequency embedding, and Koopman spectrum comparison" loading="lazy" decoding="async" /> ***[Koopstd: Reliable similarity analysis between dynamical systems via approximating Koopman spectrum with timescale decoupling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:Y0pCki6q_DkC)***
    * S. Zhang, Z. Ye, **Yinsong Yan**, Z. Song, Y. Wu, Jibin Wu
    * **Forty-second International Conference on Machine Learning (ICML 2025)**
 
