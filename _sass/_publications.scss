@@ -86,17 +86,17 @@
       box-shadow: var(--shadow-sm);
     }
 
-    // Real thumbnail (when present): fixed width, auto height — no cropping.
+    // Paper-figure thumbnails share a consistent frame without cropping diagrams.
     > img.pub-thumb {
       grid-column: 1;
       grid-row: 1 / 100;
       align-self: center;
       width: 200px;
-      height: auto;
-      max-height: 200px;
+      height: 120px;
       object-fit: contain;
+      padding: 4px;
       border-radius: $radius-sm;
-      background: var(--color-bg);
+      background: #fff;
       border: 1px solid var(--color-border);
     }
     &:has(> img.pub-thumb)::before { display: none; }
@@ -217,7 +217,7 @@
         grid-column: 1;
         grid-row: auto;
         width: 100%;
-        max-height: 220px;
+        height: 150px;
         margin: 0 0 0.6rem;
       }
 

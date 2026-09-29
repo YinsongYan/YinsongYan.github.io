@@ -68,21 +68,21 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u>Technical Reports</u>
 
-1. ***Qwen3.8-Omni: Towards Native Omni-Modal Agents***
+1. <img class="pub-thumb" src="images/publications/qwen38-omni.png" alt="Figure 1 from Qwen3.8-Omni: model and agent overview" loading="lazy" decoding="async" /> ***Qwen3.8-Omni: Towards Native Omni-Modal Agents***
    * **Qwen Team**
    * **Technical Report, 2026**
    * A native omni-modal model for multimodal understanding, real-time interaction, and long-horizon agentic tasks.
-   [Paper](https://arxiv.org/abs/2609.25611), [PDF](https://arxiv.org/pdf/2609.25611)
+   [Paper](https://arxiv.org/abs/2609.25611), [PDF](https://arxiv.org/pdf/2609.25611), [Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins), [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness), [Omni Chat](https://omni.qwen.ai/), [Cite](https://patrick-tssn.github.io/papers/arxiv26_qwen38omni.bib)
 
 ## <u>First-Author / Project Leader</u>
 
-1. ***Efficient and robust temporal processing with neural oscillations modulated spiking neural networks***
+1. <img class="pub-thumb" src="images/publications/rhythm-snn.png" alt="Figure 1 from Rhythm-SNN: neural oscillations and temporal processing" loading="lazy" decoding="async" /> ***Efficient and robust temporal processing with neural oscillations modulated spiking neural networks***
    * **Yinsong Yan**, Qu Yang, Yujie Wu, Hanwen Liu, Malu Zhang, Haizhou Li, Kay Chen Tan, Jibin Wu
    * **Nature Communications 2025**
    * We introduce Rhythm-SNN, a neural modulation framework inspired by brain oscillations for robust and energy-efficient temporal processing.
    [Paper](https://doi.org/10.1038/s41467-025-63771-x), [Code](https://github.com/YinsongYan/Rhythm-SNN)
 
-1. ***Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation***
+1. <img class="pub-thumb" src="images/publications/pit-snn.png" alt="Figure 1 from the PIT paper: parametric invertible transformation workflow" loading="lazy" decoding="async" /> ***Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation***
    * **Yinsong Yan**, Yujie Wu, Jibin Wu
    * **International Conference on Learning Representations (ICLR) 2026**
    * We propose a parametric invertible transformation to expand spatiotemporal representations and improve learning dynamics in spiking neural networks.
@@ -96,11 +96,11 @@ You can find the full list on my [**Google Scholar**](https://scholar.google.com
 
 ## <u>Collaborative Works</u>
 
-1. ***[PMSN: A Parallel Multi-Compartment Spiking Neuron for Multiscale Temporal Processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:IjCSPb-OGe4C)***
+1. <img class="pub-thumb" src="images/publications/pmsn.png" alt="Figure 1 from PMSN: comparison of spiking neuron structures" loading="lazy" decoding="async" /> ***[PMSN: A Parallel Multi-Compartment Spiking Neuron for Multiscale Temporal Processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:IjCSPb-OGe4C)***
    * X. Chen, Jibin Wu, C. Ma, **Yinsong Yan**, H. Liu, Y. Wu, Kay Chen Tan
    * **IEEE Transactions on Neural Networks and Learning Systems, 2026**
 
-1. ***[Koopstd: Reliable similarity analysis between dynamical systems via approximating Koopman spectrum with timescale decoupling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:Y0pCki6q_DkC)***
+1. <img class="pub-thumb" src="images/publications/koopstd.png" alt="Figure 1 from KoopSTD: separation of dynamical systems" loading="lazy" decoding="async" /> ***[Koopstd: Reliable similarity analysis between dynamical systems via approximating Koopman spectrum with timescale decoupling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Sj9BTwIAAAAJ&citation_for_view=Sj9BTwIAAAAJ:Y0pCki6q_DkC)***
    * S. Zhang, Z. Ye, **Yinsong Yan**, Z. Song, Y. Wu, Jibin Wu
    * **Forty-second International Conference on Machine Learning (ICML 2025)**
 
