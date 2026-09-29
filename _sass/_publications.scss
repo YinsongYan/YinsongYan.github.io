@@ -5,7 +5,7 @@
 //   <h2 id="first-author--project-leader">...</h2>
 //   <ol>
 //     <li>
-//       <em><strong>Title.</strong></em>
+//       <strong><em>Title.</em></strong>
 //       <ul>
 //         <li>Authors</li>
 //         <li>Accepted by <strong>Venue</strong> ...</li>
@@ -16,7 +16,7 @@
 //     ...
 //   </ol>
 //
-// No markdown rewrite needed — we target the headings' IDs.
+// No markdown rewrite needed — we target the headings' generated IDs.
 
 // Note explaining the dagger superscript on author lists
 .cors-note {
@@ -33,9 +33,9 @@
   }
 }
 
-[id="-technical-reports-"] + ol,
-[id="-first-author--project-leader-"] + ol,
-[id="-collaborative-works-"] + ol {
+#technical-reports + ol,
+#first-author--project-leader + ol,
+#collaborative-works + ol {
   list-style: none;
   padding-left: 0;
   counter-reset: pub;
